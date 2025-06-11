@@ -1,4 +1,4 @@
-# Sávio Borges
+# Sávio Borges da Silva
 
 Full Stack Developer in training | Construindo soluções digitais com propósito
 
@@ -12,7 +12,7 @@ Atualmente, faço parte do programa **Programadores do Amanhã**, onde tenho apr
 
 Trabalho principalmente com **JavaScript**, **Node.js** e **MySQL**, e estou constantemente em busca de aprender mais, colaborar em projetos significativos e crescer profissionalmente.
 
-📍 Baseado em Luís Eduardo Magalhães - Bahia  
+📍 Moro em Luís Eduardo Magalhães - Bahia  
 🎯 Em busca de oportunidades como Engenheiro de Software  
 🧠 Curioso por natureza e movido por desafios
 
